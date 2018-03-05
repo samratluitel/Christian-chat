@@ -136,6 +136,8 @@ h2{
 }
 #get-in-touch .section-header h2{
     color:#464646;
+    position: relative;
+    left:-35px;
 }
 #get-in-touch h2 span{
     text-transform: uppercase;
@@ -157,6 +159,8 @@ h2{
     margin-top:31px;
     color:#464646;
     font-weight:bold;
+    position: relative;
+    left:-35px;
 }
 #get-in-touch .social-area{
     margin-top:45px;
