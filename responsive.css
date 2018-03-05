@@ -82,6 +82,9 @@
     #get-in-touch .section-header h2{
         left:0px;
     }
+    .change-order-sm{
+        order:2 !important;
+    }
 }
 @media screen and (max-width:695px){
     #header .description{
