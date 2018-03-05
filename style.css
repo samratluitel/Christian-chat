@@ -20,6 +20,10 @@ h2{
     height: 100%;
     background-color: rgba(0,0,0,0.4);
 }
+.cross{
+    position: relative;
+    top:-12px;
+}
 .hero-content{
     display: flex;
     justify-content: center;
