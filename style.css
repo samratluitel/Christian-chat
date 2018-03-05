@@ -124,7 +124,9 @@ h2{
 #our-mission .content{
     padding-top:30px;
 }
-
+.reaching-beyond-border{
+    margin-left:10px;
+}
 /* Get In Touch Section */
 #get-in-touch{
     width:100%;
@@ -187,9 +189,7 @@ h2{
 #get-in-touch .social-area div:hover a{
     color:#F45442;
 }
-#get-in-touch .social-area:before{
 
-}
 .contact-us-form{
     margin-top:45px;
     margin-bottom:10px;
