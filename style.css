@@ -38,6 +38,10 @@ h2{
     font-size: 40px;
 }
 
+#header .description{
+    padding-left: 10%;
+    padding-right:10%;
+}
 #header h3{
     color:white;
     font-weight: 700;

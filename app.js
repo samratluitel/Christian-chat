@@ -13,7 +13,7 @@ typewriter.typeString("live international fellowship")
             .pauseFor(4500)
             .start();
 $(".hire").click(()=>{
-$('html,body').animate({
-    scrollTop: $("#get-in-touch").offset().top},
-    3000);
+    $('html,body').animate({
+        scrollTop: $("#get-in-touch").offset().top},
+        3000);
 });

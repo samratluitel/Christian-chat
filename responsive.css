@@ -1,0 +1,200 @@
+@media screen and (max-width:1211px) {
+    #header .description{
+        padding-left: 10%;
+        padding-right:10%;
+    }
+    #header .first-level-heading{
+        font-size:50px;
+    }
+    #header .second-level-heading{
+        font-size:37px;
+    }
+    #header .content-description{
+        margin-left:5%;
+    } 
+}
+@media screen and (max-width:1125px){
+    #header .description{
+        margin-left:2%;
+    }
+    #header .first-level-heading{
+        font-size:45px;
+    }
+    #header .second-level-heading{
+        font-size:36px;
+    }
+    #header .content-description{
+        margin-left:25%;
+    } 
+}
+@media screen and (max-width:1040px){
+    #header .container-fluid{
+        margin-top:30px;
+    }
+    #header .description{
+        margin-left:2%;
+    }
+    #header .first-level-heading{
+        font-size:40px;
+    }
+    #header .second-level-heading{
+        font-size:32px;
+    }
+    #header .content-description{
+        margin-left:25%;
+    } 
+}
+
+@media screen and (max-width:940px){
+    #header .description{
+        padding-left: 6%;
+        padding-right:6%;
+    }
+}
+@media screen and (max-width:860px){
+    #header .description{
+        padding-left: 4%;
+        padding-right:4%;
+    }
+}
+
+@media screen and (max-width:800px){
+    #header .description{
+        padding-left: 2%;
+        padding-right:2%;
+    }
+    #header .first-level-heading{
+        font-size:35px;
+    }
+    #header .second-level-heading{
+        font-size:27px;
+    }
+    #header .content-description{
+        margin-left:25%;
+        transform: scale(0.9);
+    } 
+}
+
+@media screen and (max-width:695px){
+    #header .description{
+        padding-left: 2%;
+        padding-right:2%;
+    }
+    #header .first-level-heading{
+        font-size:32px;
+    }
+    #header .second-level-heading{
+        font-size:24px;
+    }
+    #header .content-description{
+        margin-left:15%;
+        transform: scale(0.9);
+    } 
+}
+
+@media screen and (max-width:640px){
+    #header .hero-content h1{
+        font-size:30px;
+    }
+    #header .description{
+        padding-left: 0%;
+        padding-right:0%;
+    }
+    #header .first-level-heading{
+        font-size:32px;
+    }
+    #header .second-level-heading{
+        font-size:24px;
+    }
+    #header .content-description{
+        margin-left:15%;
+        transform: scale(0.9);
+    } 
+}
+@media screen and (max-width:455px){
+    #header .hero-content h1{
+        font-size:30px;
+    }
+    #header .description{
+        padding-left: 0%;
+        padding-right:0%;
+    }
+    #header .first-level-heading{
+        font-size:28px;
+    }
+    #header .second-level-heading{
+        font-size:20px;
+    }
+    #header .content-description{
+        margin-left:10%;
+        transform: scale(0.85);
+    } 
+}
+@media screen and (max-width:410px){
+    #header .hero-content h1{
+        font-size:30px;
+    }
+    #header .description{
+        padding-left: 0%;
+        padding-right:0%;
+    }
+    #header .first-level-heading{
+        font-size:24px;
+    }
+    #header .second-level-heading{
+        font-size:20px;
+    }
+    #header .content-description{
+        margin-left:5%;
+        transform: scale(0.88);
+    } 
+}
+
+@media screen and (max-width:385px){
+    #header .hero-content h1{
+        font-size:26px;
+    }
+    #header .description{
+        margin-left:0;
+        margin-right:0;
+        padding-left: 0%;
+        padding-right:0%;
+    }
+    #header .first-level-heading{
+        font-size:22px;
+        padding:0;
+        margin-left:0;
+        margin-right:0;
+    }
+    #header .second-level-heading{
+        font-size:20px;
+    }
+    #header .content-description{
+        margin-left:2%;
+        transform: scale(0.80);
+    } 
+}
+@media screen and (max-width:336px){
+    #header .hero-content h1{
+        font-size:22px;
+    }
+    #header .description{
+        margin-left:0;
+        margin-right:0;
+        padding-left: 0%;
+        padding-right:0%;
+    }
+    #header .first-level-heading{
+        font-size:22px;
+        padding:0;
+        margin-left:0;
+        margin-right:0;
+    }
+    #header .second-level-heading{
+        font-size:20px;
+    }
+    #header .content-description{
+        margin-left:-35px;
+        transform: scale(0.70);
+    } 
+}
