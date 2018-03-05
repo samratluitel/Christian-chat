@@ -85,6 +85,17 @@
     .change-order-sm{
         order:2 !important;
     }
+    #get-in-touch h2{
+        position: relative;
+        top:-380px;
+    }
+    .contact-us-form{
+        padding-top:80px;
+    }
+    .address-form{
+        position: relative;
+        top:-50px;
+    }
 }
 @media screen and (max-width:695px){
     #header .description{
