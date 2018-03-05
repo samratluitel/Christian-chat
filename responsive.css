@@ -75,6 +75,14 @@
     } 
 }
 
+@media screen and (max-width:768px){
+    #get-in-touch .section-description{
+        left:0px;
+    }
+    #get-in-touch .section-header h2{
+        left:0px;
+    }
+}
 @media screen and (max-width:695px){
     #header .description{
         padding-left: 2%;
